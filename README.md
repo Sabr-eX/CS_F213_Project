@@ -1,4 +1,4 @@
-# Online Supermarket Website
+# Shopee - Online Supermarket
 
 A complete ECommerce solution along with a fully functional admin and manager pannel.
 
